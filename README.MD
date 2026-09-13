@@ -1,4 +1,4 @@
-###**Calculating Revenue and Key Business Metrics in Excel**
+**Calculating Revenue and Key Business Metrics in Excel**
 
 ### 💭 The Goal
 
